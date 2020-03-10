@@ -1,0 +1,17 @@
+body {
+  background-color: white; }
+
+#profilbillede {
+  width: 20%; }
+
+.first {
+  background-color: #ffc90e; }
+
+.second {
+  background-color: #99d9ea; }
+
+.footer {
+  bottom: 0;
+  width: 100%;
+  position: absolute;
+  height: 15%; }
